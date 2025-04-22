@@ -13,6 +13,6 @@ public class RabbitmqdemoApplication implements CommandLineRunner {
 
   @Override
   public void run(String... args) throws Exception {
-    System.out.println("run Method called");
+    System.out.println("run Method called    ");
   }
 }
